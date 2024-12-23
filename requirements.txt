@@ -12,7 +12,6 @@ packaging==24.2
 pandas==2.2.3
 python-dateutil==2.9.0.post0
 pytz==2024.2
-pywin32==308
 scikit-learn==1.6.0
 scipy==1.14.1
 six==1.17.0
